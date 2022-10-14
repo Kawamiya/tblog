@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3ce3745-6602-4239-8d07-cf0dae09f28f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="250pQAbXAEKllvJs8X7KLa7NCRj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/blog_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4d65aa17e1eeb16318fb5aa9c97889e3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\tblog\blog_api\src\main\java\com\tblog\blog_api\service\impl" />
+      <recent name="F:\tblog\blog_api\src\main\java\com\tblog\blog_api\service" />
+      <recent name="F:\tblog\blog_api\src\main\java\com\tblog\blog_api\controller" />
+      <recent name="F:\tblog\blog_app\src\router" />
+      <recent name="F:\tblog\blog_app\src\views" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.tblog.blog_api.service.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tblog.blog_api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tblog.blog_api.vo" />
+      <recent name="com.tblog.blog_api.vo.params" />
+      <recent name="com.tblog.blog_api.config" />
+      <recent name="com.tblog.blog_admin.vo" />
+      <recent name="com.tblog.blog_admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApiApplication">
+    <configuration name="CodeGenerator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tblog.blog_admin.CodeGenerator" />
+      <module name="blog_admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tblog.blog_admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tblog.blog_api.CodeGenerator" />
+      <module name="blog_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tblog.blog_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tblog.blog_api.utils.PasswordGenerator" />
+      <module name="blog_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tblog.blog_api.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tblog.blog_admin.config.SecurityConfig" />
+      <module name="blog_admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tblog.blog_admin.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tblog.blog_api.learning" />
+      <module name="blog_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tblog.blog_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog_admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tblog.blog_admin.BlogAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog_api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tblog.blog_api.BlogApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Application.CodeGenerator (1)" />
+      <item itemvalue="Application.SecurityConfig" />
+      <item itemvalue="Application.PasswordGenerator" />
+      <item itemvalue="Application.learning" />
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Spring Boot.BlogAdminApplication" />
+      <item itemvalue="Spring Boot.BlogApiApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordGenerator" />
+        <item itemvalue="Application.learning" />
+        <item itemvalue="Application.SecurityConfig" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Application.CodeGenerator (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21843252" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ce3745-6602-4239-8d07-cf0dae09f28f" name="Default Changelist" comment="" />
+      <created>1644673839541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644673839541</updated>
+      <workItem from="1644673842784" duration="3528000" />
+      <workItem from="1644732887411" duration="15412000" />
+      <workItem from="1644824278340" duration="876000" />
+      <workItem from="1644829669249" duration="18684000" />
+      <workItem from="1644859422400" duration="698000" />
+      <workItem from="1644906781246" duration="15627000" />
+      <workItem from="1644994923857" duration="14355000" />
+      <workItem from="1645109189989" duration="6113000" />
+      <workItem from="1645166130322" duration="13805000" />
+      <workItem from="1645272497033" duration="18768000" />
+      <workItem from="1645336148713" duration="14149000" />
+      <workItem from="1645419926867" duration="764000" />
+      <workItem from="1645430447641" duration="8860000" />
+      <workItem from="1645448453484" duration="1275000" />
+      <workItem from="1645597371341" duration="705000" />
+      <workItem from="1645622574497" duration="1843000" />
+      <workItem from="1645686781153" duration="2111000" />
+      <workItem from="1645864110331" duration="2453000" />
+      <workItem from="1645956999640" duration="4761000" />
+      <workItem from="1646038248996" duration="4028000" />
+      <workItem from="1646134652007" duration="3389000" />
+      <workItem from="1646204955539" duration="5487000" />
+      <workItem from="1646289114155" duration="322000" />
+      <workItem from="1646296833157" duration="1478000" />
+      <workItem from="1646385347283" duration="3949000" />
+      <workItem from="1646472682917" duration="1424000" />
+      <workItem from="1646560936411" duration="636000" />
+      <workItem from="1646562651638" duration="6048000" />
+      <workItem from="1646640512373" duration="11960000" />
+      <workItem from="1646726089951" duration="5628000" />
+      <workItem from="1646812626024" duration="2764000" />
+      <workItem from="1646916854789" duration="4900000" />
+      <workItem from="1646984627157" duration="7467000" />
+      <workItem from="1647104119440" duration="1191000" />
+      <workItem from="1647174748732" duration="14446000" />
+      <workItem from="1647436607564" duration="3599000" />
+      <workItem from="1647502913018" duration="7138000" />
+      <workItem from="1647604906808" duration="11766000" />
+      <workItem from="1647682158172" duration="15180000" />
+      <workItem from="1647938450857" duration="4027000" />
+      <workItem from="1648025908749" duration="6565000" />
+      <workItem from="1648111439464" duration="11419000" />
+      <workItem from="1648196010195" duration="6815000" />
+      <workItem from="1648276740968" duration="13493000" />
+      <workItem from="1648366117954" duration="4932000" />
+      <workItem from="1648459063894" duration="8254000" />
+      <workItem from="1648553307187" duration="5916000" />
+      <workItem from="1648630284725" duration="5394000" />
+      <workItem from="1648711194782" duration="3019000" />
+      <workItem from="1648797010295" duration="841000" />
+      <workItem from="1648811257292" duration="2880000" />
+      <workItem from="1648839618197" duration="894000" />
+      <workItem from="1648885272719" duration="1216000" />
+      <workItem from="1648965403728" duration="2161000" />
+      <workItem from="1649061100158" duration="5998000" />
+      <workItem from="1649215397874" duration="9420000" />
+      <workItem from="1649311865284" duration="11540000" />
+      <workItem from="1649398367694" duration="3051000" />
+      <workItem from="1649482517713" duration="3198000" />
+      <workItem from="1649567052204" duration="3639000" />
+      <workItem from="1649664077678" duration="8552000" />
+      <workItem from="1649737793720" duration="9857000" />
+      <workItem from="1649830395972" duration="11196000" />
+      <workItem from="1649913013205" duration="1300000" />
+      <workItem from="1649943719997" duration="5008000" />
+      <workItem from="1650424506936" duration="11739000" />
+      <workItem from="1650536346624" duration="13587000" />
+      <workItem from="1650600910131" duration="3297000" />
+      <workItem from="1650684281062" duration="595000" />
+      <workItem from="1650867082595" duration="5624000" />
+      <workItem from="1650948572691" duration="9710000" />
+      <workItem from="1651053602430" duration="9294000" />
+      <workItem from="1651136526505" duration="1303000" />
+      <workItem from="1651221032083" duration="2983000" />
+      <workItem from="1651296944994" duration="11858000" />
+      <workItem from="1651408134138" duration="2714000" />
+      <workItem from="1651475758500" duration="18632000" />
+      <workItem from="1651573580929" duration="20242000" />
+      <workItem from="1651667216107" duration="16683000" />
+      <workItem from="1651724455560" duration="16012000" />
+      <workItem from="1651813587143" duration="9393000" />
+      <workItem from="1652174898944" duration="11346000" />
+      <workItem from="1652242966470" duration="18986000" />
+      <workItem from="1652327060537" duration="14929000" />
+      <workItem from="1652418646300" duration="8322000" />
+      <workItem from="1652586314324" duration="17913000" />
+      <workItem from="1652678097681" duration="15335000" />
+      <workItem from="1652759844631" duration="9166000" />
+      <workItem from="1652846363727" duration="4464000" />
+      <workItem from="1652950633735" duration="1748000" />
+      <workItem from="1653023398220" duration="13477000" />
+      <workItem from="1653112110838" duration="11539000" />
+      <workItem from="1653203358653" duration="6879000" />
+      <workItem from="1653283137596" duration="11022000" />
+      <workItem from="1653461126438" duration="1188000" />
+      <workItem from="1653545555064" duration="2442000" />
+      <workItem from="1653629372304" duration="8355000" />
+      <workItem from="1653744485697" duration="4205000" />
+      <workItem from="1653833117349" duration="670000" />
+      <workItem from="1653896531374" duration="588000" />
+      <workItem from="1653979511207" duration="589000" />
+      <workItem from="1654065153985" duration="1186000" />
+      <workItem from="1654160624936" duration="992000" />
+      <workItem from="1654240723936" duration="1188000" />
+      <workItem from="1654335259917" duration="610000" />
+      <workItem from="1654922316876" duration="1233000" />
+      <workItem from="1664592901247" duration="960000" />
+      <workItem from="1665363716737" duration="392000" />
+      <workItem from="1665526951619" duration="9963000" />
+      <workItem from="1665586322223" duration="14087000" />
+      <workItem from="1665667361347" duration="12637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/blog_api/src/main/java/com/tblog/blog_api/security/MyUserDetails.java</url>
+          <line>34</line>
+          <properties class="com.tblog.blog_api.security.MyUserDetails" method="getAuthorities">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="temporary" value="true" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.15/spring-context-5.3.15-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java</url>
+          <line>120</line>
+          <properties class="org.springframework.context.support.AbstractRefreshableApplicationContext">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/blog_api/src/main/java/com/tblog/blog_api/controller/TestController.java</url>
+          <line>21</line>
+          <properties class="com.tblog.blog_api.controller.TestController" method="adminlogin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jrt://F:/IDEA/IntelliJ IDEA 2019.3.2/jbr!/java.base/java/lang/Class.class</url>
+          <line>108</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.15/spring-context-5.3.15-sources.jar!/org/springframework/context/event/AbstractApplicationEventMulticaster.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.15/spring-context-5.3.15-sources.jar!/org/springframework/context/event/AbstractApplicationEventMulticaster.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.6/mybatis-3.5.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blog_api/src/main/java/com/tblog/blog_api/controller/ArticleController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="this.resultSetHandler" language="JAVA" />
+        <watch expression="queryWrapper" />
+        <watch expression="((UsernamePasswordAuthenticationToken)authenticate).principal" custom="org.springframework.security.authentication.UsernamePasswordAuthenticationToken" />
+        <watch expression="((Admin)((MyUserDetails)principal).admin).id" custom="com.tblog.blog_api.entity.Admin,com.tblog.blog_api.security.MyUserDetails" />
+        <watch expression="environment" />
+        <watch expression="this" />
+        <watch expression="contributors" />
+        <watch expression="activationContext.profiles" />
+        <watch expression="activationContext.profiles.defaultProfiles.get(0).value" />
+        <watch expression="((ApplicationServletEnvironment)environment).defaultProfiles" custom="org.springframework.boot.ApplicationServletEnvironment" />
+        <watch expression="((ApplicationServletEnvironment)environment).logger" custom="org.springframework.boot.ApplicationServletEnvironment" />
+        <watch expression="((MutablePropertySources)((SpringConfigurationPropertySources)((ConfigurationPropertySourcesPropertySource)((java.util.concurrent.CopyOnWriteArrayList)((MutablePropertySources)((ApplicationServletEnvironment)environment).propertySources).propertySourceList).get(0)).source).sources).propertySourceList" custom="java.util.concurrent.CopyOnWriteArrayList,org.springframework.boot.ApplicationServletEnvironment,org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource,org.springframework.boot.context.properties.source.SpringConfigurationPropertySources,org.springframework.core.env.MutablePropertySources" />
+        <watch expression="((java.util.concurrent.CopyOnWriteArrayList)((MutablePropertySources)((ApplicationServletEnvironment)environment).propertySources).propertySourceList).get(0)" custom="java.util.concurrent.CopyOnWriteArrayList,org.springframework.boot.ApplicationServletEnvironment,org.springframework.core.env.MutablePropertySources" />
+        <watch expression="((SystemEnvironmentPropertySource)((java.util.concurrent.CopyOnWriteArrayList)((MutablePropertySources)((ApplicationServletEnvironment)environment).propertySources).propertySourceList).get(4)).source" custom="java.util.concurrent.CopyOnWriteArrayList,org.springframework.core.env.SystemEnvironmentPropertySource,org.springframework.boot.ApplicationServletEnvironment,org.springframework.core.env.MutablePropertySources" />
+        <watch expression="contributor.properties.imports" />
+        <watch expression="((StandardConfigDataLocationResolver)resolver).configNames" custom="org.springframework.boot.context.config.StandardConfigDataLocationResolver" />
+        <watch expression="((StandardConfigDataReference)((StandardConfigDataResource)resources.get(0)).reference).directory" custom="org.springframework.boot.context.config.StandardConfigDataReference,org.springframework.boot.context.config.StandardConfigDataResource" />
+        <watch expression="((StandardConfigDataResource)resolved.get(0).resource).resource" custom="org.springframework.boot.context.config.StandardConfigDataResource" />
+        <watch expression="resolved.get(0)" />
+        <watch expression="loaded" />
+        <watch expression="imported" />
+        <watch expression="contributorAndChildren.properties" />
+        <watch expression="importer.loaders.loaders.get(1)" language="JAVA" />
+        <watch expression="((Properties)((PropertiesPropertySource)((java.util.concurrent.CopyOnWriteArrayList)((MutablePropertySources)((ApplicationServletEnvironment)environment).propertySources).propertySourceList).get(3)).source).entrySet().toArray()[44]" custom="java.util.concurrent.CopyOnWriteArrayList,org.springframework.boot.ApplicationServletEnvironment,java.util.Properties,org.springframework.core.env.MutablePropertySources,org.springframework.core.env.PropertiesPropertySource" />
+        <watch expression="((DefaultListableBeanFactory)beanFactory).singletonBeanNamesByType" custom="org.springframework.beans.factory.support.DefaultListableBeanFactory" />
+        <watch expression="((DeferredImportSelectorHandler)this).this$0" custom="org.springframework.context.annotation.ConfigurationClassParser.DeferredImportSelectorHandler" />
+        <watch expression="configCandidates" />
+        <watch expression="((StandardService)((org.apache.catalina.Service[])((StandardServer)((Tomcat)((TomcatWebServer)this).tomcat).server).services)[0]).server" language="JAVA" custom="org.springframework.boot.web.embedded.tomcat.TomcatWebServer,org.apache.catalina.startup.Tomcat,org.apache.catalina.Service[],org.apache.catalina.core.StandardService,org.apache.catalina.core.StandardServer" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
